@@ -1,2 +1,2 @@
 # Data-Science---Projects
-Here I uploaded projects in the field of data science 
+This folder contains projects in Data Science.
